@@ -15,3 +15,7 @@ console.log(zoo);
 zoo.shift();
 
 console.log(zoo);
+
+for (let i = 0; i < zoo.length; i++) {
+  console.log(zoo[i]);
+}
