@@ -1,6 +1,6 @@
 const zoo = ["Panda", "Lion", "Elk"];
 
-zoo.push("bunny", "flamingo");
+zoo.push("Bunny", "Flamingo");
 
 console.log(zoo);
 
